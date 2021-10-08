@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Declan</h1>
-<h3 align="center">A passionate high school student from China</h3>
+<h1 align="center">Hey there 👋, I'm Haojin</h1>
+<h3 align="center">Duke class of 2025</h3>
 
 - 🔭 I’m currently working on [my personal website](https://lihaojin.cn)
 
