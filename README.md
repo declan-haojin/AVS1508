@@ -1,1 +1,1 @@
-[![Hey there! I'm Haojin~](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f601&text=Hey%2520there%21%2520I%27m%2520Haojin~)](https://pimp-my-readme.webapp.io)
+[![Hey there! I'm Haojin!, A freshman studying Computer Science at Duke University.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20freshman%20studying%20Computer%20Science%20at%20Duke%20University.&title=Hey%20there%21%20I%27m%20Haojin%21)](https://pimp-my-readme.webapp.io)
