@@ -1,3 +1,3 @@
 # Hey there! I'm [Haojin](https://blog.haojin.li/about/) 👋
 
-Actively looking for new grad full-time SWE/DevOps/software-related role in 2025. Prev SWE Intern @ Dropbox. Please [reach out](mailto:work@haojin.li) :)
+### **Actively seeking 2025 new grad full-time role in SWE/DevOps/software-related fields. Previously SWE Intern @ Dropbox. Please [reach out](mailto:work@haojin.li) :)**
